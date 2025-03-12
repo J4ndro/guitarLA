@@ -1,12 +1,29 @@
-# React + Vite
+# Guitar-LA
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Guitar-LA es un proyecto web desarrollado con React.js que presenta una interfaz dinámica y moderna para la exploración y gestión de productos musicales.
 
-Currently, two official plugins are available:
+## Características principales
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Exploración de productos: Implementación de un sistema de listado de productos con detalles individuales.
 
-## Expanding the ESLint configuration
+Gestión de carrito: Permite a los usuarios agregar y eliminar elementos del carrito de compras.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Context API: Manejo del estado global para la administración eficiente de los datos.
+
+Diseño responsivo: Adaptado para distintos dispositivos y tamaños de pantalla.
+
+Rutas dinámicas: Uso de React Router para una navegación fluida entre páginas.
+
+## Tecnologías utilizadas
+
+React.js: Librería principal para la construcción del frontend.
+
+React Router: Gestión de navegación entre las distintas vistas.
+
+Context API: Manejo del estado global sin necesidad de librerías externas.
+
+CSS Modules: Estilización modular y escalable.
+
+Netlify: Plataforma de despliegue utilizada para la versión en línea.
+
+URL: https://vermillion-bienenstitch-1a92fe.netlify.app/
